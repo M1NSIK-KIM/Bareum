@@ -16,6 +16,7 @@ KT Aivle School 빅프로젝트 프로젝트
 ### 프로젝트 기간 및 참여인원
 
 - 2023.05.22 ~ 2023.07.03
+
 - 7명
 
 ### 프로젝트 목표
@@ -26,11 +27,12 @@ KT Aivle School 빅프로젝트 프로젝트
 
 | 로그인 | 제품 등록 | 영양소 및 제품 확인 | 제품 추천 | 정기배송&쇼핑 | 복용알림 | 커뮤니티 |
 | --- | --- | --- | --- | --- | --- | --- |
-| <img src="https://github.com/AIVLE-School-Third-Big-Project/AI_07_28/assets/61678329/8c1d8156-9764-4208-b12f-5a11f287bce0" width="300px"> | <img src="https://github.com/AIVLE-School-Third-Big-Project/AI_07_28/assets/61678329/2742e677-f2e7-4c71-b088-0d5927c412d7" width="300px"> | <img src="https://github.com/AIVLE-School-Third-Big-Project/AI_07_28/assets/61678329/3b3c62f6-07bd-42d1-8803-125b71cfc3f0" width="300px"> | <img src="https://github.com/AIVLE-School-Third-Big-Project/AI_07_28/assets/61678329/ed6415d4-25b1-4a53-8c01-075f0ce1a68c" width="300px"> | <img src="https://github.com/AIVLE-School-Third-Big-Project/AI_07_28/assets/61678329/5d9f596f-ea19-4ca5-b3f9-31ccbd392ea6" width="300px"> | <img src="https://github.com/AIVLE-School-Third-Big-Project/AI_07_28/assets/61678329/5127d612-b70c-400d-9368-afc12a41ed6b" width="300px"> | <img src="https://github.com/AIVLE-School-Third-Big-Project/AI_07_28/assets/61678329/a94a95a1-fc13-4431-9f80-5e34e4d72ed4" width="300px"> |  
+| <img src="https://github.com/M1NSIK-KIM/Bareum/assets/76109508/cdaa1b0f-2813-482c-9b57-5d9e07f35fa7" width="300px"> | <img src="https://github.com/M1NSIK-KIM/Bareum/assets/76109508/01714d4c-02f6-4e43-a480-b0a46e1c90c0" width="300px"> | <img src="https://github.com/M1NSIK-KIM/Bareum/assets/76109508/e7f21e94-d34b-4fa3-8dd7-74678ad05bd3" width="300px"> | <img src="https://github.com/M1NSIK-KIM/Bareum/assets/76109508/e7a29a71-6603-4750-bc0b-e380df064efd" width="300px"> | <img src="https://github.com/M1NSIK-KIM/Bareum/assets/76109508/4381c290-071c-4f35-b9b2-7877fc2b3960" width="300px"> | <img src="https://github.com/M1NSIK-KIM/Bareum/assets/76109508/a5a75065-6198-4bb3-aa4c-2025716a6fae" width="300px"> | <img src="https://github.com/M1NSIK-KIM/Bareum/assets/76109508/8baafbd6-2b39-432e-8293-3fadbe44d73e" width="300px"> |  
+
 
 | 결과 영상 |
 |:-:|
-|![결과 영상](https://github.com/AIVLE-School-Third-Big-Project/AI_07_28/assets/61678329/166a60ce-dd07-4fa9-a64c-178be34ee31f)|
+|![결과 영상](https://github.com/M1NSIK-KIM/Bareum/assets/76109508/e3803d66-9d52-4fd7-849a-a9f36d918e16)|
 
 
 ## 주요 기능 및 기대효과
@@ -44,6 +46,9 @@ KT Aivle School 빅프로젝트 프로젝트
 - OCR 기능의 성능을 개선하기 위해 코사인 유사도 검증을 사용하여 데이터베이스와 직접적으로 유사도를 확인하여 정확도를 높임
 
 #### 학습 데이터
+
+
+
 - 한글 데이터 "AI Hub 다양한 형태의 한글 문자 OCR"
 - 영문 데이터 "Text OCR"
   
@@ -54,7 +59,7 @@ KT Aivle School 빅프로젝트 프로젝트
 #### 학습 결과
 | 학습 결과 |
 | --- |
-| <img src="https://github.com/AIVLE-School-Third-Big-Project/AI_07_28/assets/61678329/e9690067-7a3c-48e7-b757-6e64f545feeb" width="320px"> |
+| <img src="https://github.com/M1NSIK-KIM/Bareum/assets/76109508/ff52ee5c-7073-4221-bb16-fd9da67d958e" width="640px"> |
 
 ### 추천 
 - Pycaret을 활용하여 데이터에 적합한 모델 XGBoost 사용
@@ -66,11 +71,12 @@ KT Aivle School 빅프로젝트 프로젝트
 #### 학습 결과
 | 학습 결과 |
 | --- |
-| <img src="https://github.com/AIVLE-School-Third-Big-Project/AI_07_28/assets/61678329/9dd4caa7-01fc-444e-bee9-90d16dcf5698" width="320px"> |
+| <img src="https://github.com/M1NSIK-KIM/Bareum/assets/76109508/4411ff63-fe10-4861-9437-922ae0251b29" width="320px"> |
 
 ### 감정 분석
 - KoBert 토크나이저 활용
 - 2 Layers Bi-LSTM + Conv1D 구조
+
   
 #### 학습 데이터
 - 네이버 쇼핑 크롤링 리뷰 데이터 29,063
@@ -78,10 +84,11 @@ KT Aivle School 빅프로젝트 프로젝트
 #### 학습 결과
 | 학습 결과 |
 | --- |
-| <img src="https://github.com/AIVLE-School-Third-Big-Project/AI_07_28/assets/61678329/7ae5a899-76fa-441f-a326-c69c60e7ac1a" width="320px"> |
+| <img src="https://github.com/M1NSIK-KIM/Bareum/assets/76109508/ce25c988-ae32-49af-be9d-a73d068e70a4" width="320px"> |
+
 
 | 워드클라우드 결과 긍정  | 워드클라우드 결과 부정 | 
 | --- | --- |
-| <img src="https://github.com/AIVLE-School-Third-Big-Project/AI_07_28/assets/61678329/29570820-93b2-453f-8b5a-d5914e2940b6" width="320px"> | <img src="https://github.com/AIVLE-School-Third-Big-Project/AI_07_28/assets/61678329/5b6a359e-b1a0-4ec7-bb31-855d5c52d273" width="320px"> |
+| <img src="https://github.com/M1NSIK-KIM/Bareum/assets/76109508/d4091b3a-66e5-45a8-91bf-6dac13fd7e08" width="320px"> | <img src="https://github.com/M1NSIK-KIM/Bareum/assets/76109508/26e3526f-434c-4097-a691-047924008b70" width="320px"> |
 
 
